@@ -1,0 +1,132 @@
+[
+  {
+    "name": "milk",
+    "ID": 63614,
+    "buyPrice": 10000,
+    "sellPrice": 38000,
+    "remainingCount": 55,
+    "soldCount": 0,
+    "soldPrice": 0,
+    "profit": 0
+  },
+  {
+    "name": "rice",
+    "ID": 35433,
+    "buyPrice": 150000,
+    "sellPrice": 210000,
+    "remainingCount": 100,
+    "soldCount": 0,
+    "soldPrice": 0,
+    "profit": 0
+  },
+  {
+    "name": "egg",
+    "ID": 69345,
+    "buyPrice": 7500,
+    "sellPrice": 15000,
+    "remainingCount": 152,
+    "soldCount": 3,
+    "soldPrice": 45000,
+    "profit": 22500
+  },
+  {
+    "name": "sugar",
+    "ID": 46995,
+    "buyPrice": 25000,
+    "sellPrice": 60000,
+    "remainingCount": 200,
+    "soldCount": 0,
+    "soldPrice": 0,
+    "profit": 0
+  },
+  {
+    "name": "dark chocolate",
+    "ID": 56505,
+    "buyPrice": 35,
+    "sellPrice": 70,
+    "remainingCount": 750,
+    "soldCount": 350,
+    "soldPrice": 17500,
+    "profit": 5250
+  },
+  {
+    "name": "chicken",
+    "ID": 77170,
+    "buyPrice": 75000,
+    "sellPrice": 150000,
+    "remainingCount": 96,
+    "soldCount": 2,
+    "soldPrice": 300000,
+    "profit": 150000
+  },
+  {
+    "name": "potato",
+    "ID": 89944,
+    "buyPrice": 90000,
+    "sellPrice": 150000,
+    "remainingCount": 150,
+    "soldCount": 0,
+    "soldPrice": 0,
+    "profit": 0
+  },
+  {
+    "name": "pringles",
+    "ID": 41575,
+    "buyPrice": 1000,
+    "sellPrice": 3000,
+    "remainingCount": 150,
+    "soldCount": 0,
+    "soldPrice": 0,
+    "profit": 0
+  },
+  {
+    "name": "ice-cream",
+    "ID": 36798,
+    "buyPrice": 4000,
+    "sellPrice": 5500,
+    "remainingCount": 1,
+    "soldCount": 0,
+    "soldPrice": 0,
+    "profit": 0
+  },
+  {
+    "name": "sesame cream",
+    "ID": 58341,
+    "buyPrice": 30000,
+    "sellPrice": 50000,
+    "remainingCount": 5,
+    "soldCount": 0,
+    "soldPrice": 0,
+    "profit": 0
+  },
+  {
+    "name": "great chocolate",
+    "ID": 15800,
+    "buyPrice": 500,
+    "sellPrice": 1000,
+    "remainingCount": 100,
+    "soldCount": 0,
+    "soldPrice": 0,
+    "profit": 0
+  },
+  {
+    "name": "cake",
+    "ID": 69570,
+    "buyPrice": 35000,
+    "sellPrice": 50000,
+    "remainingCount": 20,
+    "soldCount": 0,
+    "soldPrice": 0,
+    "profit": 0
+  },
+  {
+    "name": "cheese cake",
+    "ID": 22719,
+    "buyPrice": 50000,
+    "sellPrice": 70000,
+    "remainingCount": 15,
+    "soldCount": 0,
+    "soldPrice": 0,
+    "profit": 0
+  }
+]

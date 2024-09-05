@@ -1,0 +1,207 @@
+total levels: 5
+level 1:
+initial coins: 10000
+task goods:
+[
+  {
+    "pickupTime": 4,
+    "spaceRequired": 1,
+    "name": "egg",
+    "sellPrice": 15,
+    "count": 1,
+    "timeOfOut": -1,
+    "x": 0,
+    "y": 0
+  }
+]
+wild animals:
+lion_5
+bear_10
+level max time: 25
+level extra coins(prize): 150
+level 2:
+initial coins: 300
+task goods:
+[
+  {
+    "pickupTime": 4,
+    "spaceRequired": 1,
+    "name": "egg",
+    "sellPrice": 15,
+    "count": 7,
+    "timeOfOut": -1,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "pickupTime": 4,
+    "spaceRequired": 1,
+    "name": "feather",
+    "sellPrice": 20,
+    "count": 3,
+    "timeOfOut": -1,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "pickupTime": 5,
+    "spaceRequired": 2,
+    "name": "flour",
+    "sellPrice": 40,
+    "count": 3,
+    "timeOfOut": -1,
+    "x": 0,
+    "y": 0
+  }
+]
+task animals:
+turkey *2
+wild animals:
+bear_5
+bear_55
+lion_45
+level max time: 65
+level extra coins(prize): 300
+level 3:
+initial coins: 500
+task goods:
+[
+  {
+    "pickupTime": 4,
+    "spaceRequired": 1,
+    "name": "feather",
+    "sellPrice": 20,
+    "count": 10,
+    "timeOfOut": -1,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "pickupTime": 4,
+    "spaceRequired": 1,
+    "name": "milk",
+    "sellPrice": 25,
+    "count": 5,
+    "timeOfOut": -1,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "pickupTime": 5,
+    "spaceRequired": 2,
+    "name": "cloth",
+    "sellPrice": 50,
+    "count": 3,
+    "timeOfOut": -1,
+    "x": 0,
+    "y": 0
+  }
+]
+task animals:
+turkey *3
+buffalo *1
+wild animals:
+lion_20
+tiger_70
+lion_40
+bear_25
+bear_10
+level max time: 80
+level extra coins(prize): 350
+level 4:
+initial coins: 1000
+task goods:
+[
+  {
+    "pickupTime": 5,
+    "spaceRequired": 2,
+    "name": "p_milk",
+    "sellPrice": 60,
+    "count": 10,
+    "timeOfOut": -1,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "pickupTime": 6,
+    "spaceRequired": 4,
+    "name": "bread",
+    "sellPrice": 80,
+    "count": 7,
+    "timeOfOut": -1,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "pickupTime": 4,
+    "spaceRequired": 1,
+    "name": "egg",
+    "sellPrice": 15,
+    "count": 12,
+    "timeOfOut": -1,
+    "x": 0,
+    "y": 0
+  }
+]
+task animals:
+chicken *6
+buffalo *2
+wild animals:
+bear_35
+tiger_100
+tiger_70
+lion_40
+lion_25
+bear_15
+level max time: 115
+level extra coins(prize): 550
+level 5:
+initial coins: 2500
+task goods:
+[
+  {
+    "pickupTime": 4,
+    "spaceRequired": 1,
+    "name": "feather",
+    "sellPrice": 20,
+    "count": 10,
+    "timeOfOut": -1,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "pickupTime": 6,
+    "spaceRequired": 4,
+    "name": "shirt",
+    "sellPrice": 100,
+    "count": 7,
+    "timeOfOut": -1,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "pickupTime": 6,
+    "spaceRequired": 4,
+    "name": "iceCream",
+    "sellPrice": 120,
+    "count": 5,
+    "timeOfOut": -1,
+    "x": 0,
+    "y": 0
+  }
+]
+task animals:
+turkey *5
+buffalo *3
+chicken *5
+wild animals:
+lion_7
+bear_120
+bear_25
+tiger_75
+tiger_140
+lion_45
+tiger_30
+bear_15
+level max time: 175
+level extra coins(prize): 1000

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "peanut butter",
+    "ID": 24181,
+    "buyPrice": 6500,
+    "sellPrice": 10000,
+    "remainingCount": 0,
+    "soldCount": 0,
+    "soldPrice": 0,
+    "profit": 0
+  }
+]
